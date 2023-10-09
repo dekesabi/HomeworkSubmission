@@ -1,0 +1,3 @@
+/home/yongxuqixiang/helloworld/zuoye/HomeworkSubmission/build/CMakeFiles/zuoyestatic.dir
+/home/yongxuqixiang/helloworld/zuoye/HomeworkSubmission/build/CMakeFiles/edit_cache.dir
+/home/yongxuqixiang/helloworld/zuoye/HomeworkSubmission/build/CMakeFiles/rebuild_cache.dir
