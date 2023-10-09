@@ -1,0 +1,5 @@
+/home/ofreceding/homework/2nd_work/HomeworkSubmission/build/CMakeFiles/rebuild_cache.dir
+/home/ofreceding/homework/2nd_work/HomeworkSubmission/build/CMakeFiles/edit_cache.dir
+/home/ofreceding/homework/2nd_work/HomeworkSubmission/build/CMakeFiles/test.dir
+/home/ofreceding/homework/2nd_work/HomeworkSubmission/build/CMakeFiles/shared_lib.dir
+/home/ofreceding/homework/2nd_work/HomeworkSubmission/build/CMakeFiles/static_lib.dir
