@@ -1,26 +1,36 @@
 cmake_minimum_required(VERSION 3.12)
+project(homework)
 
-project(my_project)
-
-# 添加你的静态库和动态库子目录
-add_subdirectory(src/static_lib)
-add_subdirectory(src/shared_lib)
-
-# 设置可执行文件的输出目录
+# 设置输出文件夹
 set(EXECUTABLE_OUTPUT_PATH ${CMAKE_BINARY_DIR}/bin)
+set(LIBRARY_OUTPUT_PATH ${CMAKE_BINARY_DIR}/lib)
 
-# 添加OpenCV和Eigen的依赖
+# 构建静态库
+add_library(hw_static STATIC 
+    src/shared_lib_src/shared_lib.cpp
+)
+target_include_directories(hw_static
+    PUBLIC 
+        ${PROJECT_SOURCE_DIR}/includes
+)
+
+# 构建动态库
+add_library(hw_shared SHARED 
+    src/static_lib_src/static_lib.cpp
+)
+target_include_directories(hw_shared
+    PUBLIC 
+        ${PROJECT_SOURCE_DIR}/includes
+)
+
+# 寻找外部库
 find_package(OpenCV REQUIRED)
 find_package(Eigen3 REQUIRED)
+include_directories(${OpenCV_INCLUDE_DIRS}) 
+include_directories(${EIGEN3_INCLUDE_DIRS})
 
-# 添加可执行文件
-add_executable(my_program src/main.cpp)
+# 构建执行文件
+add_executable(hw_main main.cpp)
+target_link_libraries(hw_main PRIVATE hw_static hw_shared ${OpenCV_LIBS} Eigen3::Eigen)
 
-# 链接静态库、动态库、OpenCV和Eigen
-target_link_libraries(shared SHARED ${PROJECT_SOURCE_DIR}/includes/shared_lib.hpp)
-target_link_libraries(static SHARED ${PROJECT_SOURCE_DIR}/includes/static_lib.hpp)
 
-target_link_libraries(my_program PRIVATE ${OpenCV_LIBS} Eigen3::Eigen)
-
-# 添加包含目录
-target_include_directories(my_program PRIVATE ${CMAKE_SOURCE_DIR}/include)
