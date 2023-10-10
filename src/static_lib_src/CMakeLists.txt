@@ -1,0 +1,1 @@
+add_library(static_lib STATIC static_lib.cpp)
