@@ -1,0 +1,2 @@
+/usr/bin/ar qc libzuoyestatic.a CMakeFiles/zuoyestatic.dir/src/static_lib_src/static_lib.cpp.o
+/usr/bin/ranlib libzuoyestatic.a
