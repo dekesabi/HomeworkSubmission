@@ -1,0 +1,5 @@
+/home/shoming/Projects/HomeworkSubmission/build/CMakeFiles/rebuild_cache.dir
+/home/shoming/Projects/HomeworkSubmission/build/CMakeFiles/edit_cache.dir
+/home/shoming/Projects/HomeworkSubmission/build/CMakeFiles/MyExecutable.dir
+/home/shoming/Projects/HomeworkSubmission/build/CMakeFiles/shared_lib.dir
+/home/shoming/Projects/HomeworkSubmission/build/CMakeFiles/static_lib.dir
