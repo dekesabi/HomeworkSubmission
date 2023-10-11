@@ -10,3 +10,9 @@
 4. 在该远程仓库的【个人姓名（拼音）】分支上提交一个pull request
 
 如果遇到了自己不懂的问题，时刻记住先实验再搜索最后再去问别人。
+
+#This is zhuhuixing's narration for his homework
+
+#the picture named "2.JPG" recorded the output of the main.cpp with some code base
+#by the way, I create a build directory to store the relevant files produced in the process of cmake.
+#the lib directory stores the static lib and the shared lib, and the executable file is stored in bin. 
