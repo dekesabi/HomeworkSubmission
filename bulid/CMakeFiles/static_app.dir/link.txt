@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/static_app.dir/src/static_lib_src/static_lib.cpp.o  -o ../bin/static_app   -L/home/an/HomeworkSubmission/lib  -L/home/an/environment/opencv-4.4.0/build/lib  -Wl,-rpath,/home/an/HomeworkSubmission/lib:/home/an/environment/opencv-4.4.0/build/lib ../lib/libstatic_lib.a 

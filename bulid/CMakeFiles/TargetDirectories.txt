@@ -1,0 +1,6 @@
+/home/an/HomeworkSubmission/bulid/CMakeFiles/rebuild_cache.dir
+/home/an/HomeworkSubmission/bulid/CMakeFiles/edit_cache.dir
+/home/an/HomeworkSubmission/bulid/CMakeFiles/shared_lib.dir
+/home/an/HomeworkSubmission/bulid/CMakeFiles/shared_app.dir
+/home/an/HomeworkSubmission/bulid/CMakeFiles/static_app.dir
+/home/an/HomeworkSubmission/bulid/CMakeFiles/static_lib.dir
