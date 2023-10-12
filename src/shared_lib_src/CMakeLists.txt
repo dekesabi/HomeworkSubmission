@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.15)
+project(SHARED_LIB)
+include_directories(${HEAD_PATH})
+set(LIBRARY_OUTPUT_PATH ${LIB_PATH})
+add_library(${SHARED_LIB} SHARED ./shared_lib.cpp)

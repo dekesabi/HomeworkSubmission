@@ -1,0 +1,9 @@
+/home/edward/Documents/course/HelloWorld/Project02/HomeworkSubmission/build/CMakeFiles/test.dir
+/home/edward/Documents/course/HelloWorld/Project02/HomeworkSubmission/build/CMakeFiles/edit_cache.dir
+/home/edward/Documents/course/HelloWorld/Project02/HomeworkSubmission/build/CMakeFiles/rebuild_cache.dir
+/home/edward/Documents/course/HelloWorld/Project02/HomeworkSubmission/build/src/static_lib_src/CMakeFiles/static_lib.dir
+/home/edward/Documents/course/HelloWorld/Project02/HomeworkSubmission/build/src/static_lib_src/CMakeFiles/edit_cache.dir
+/home/edward/Documents/course/HelloWorld/Project02/HomeworkSubmission/build/src/static_lib_src/CMakeFiles/rebuild_cache.dir
+/home/edward/Documents/course/HelloWorld/Project02/HomeworkSubmission/build/src/shared_lib_src/CMakeFiles/shared_lib.dir
+/home/edward/Documents/course/HelloWorld/Project02/HomeworkSubmission/build/src/shared_lib_src/CMakeFiles/edit_cache.dir
+/home/edward/Documents/course/HelloWorld/Project02/HomeworkSubmission/build/src/shared_lib_src/CMakeFiles/rebuild_cache.dir
