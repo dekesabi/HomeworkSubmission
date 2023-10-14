@@ -1,0 +1,5 @@
+/home/chenshan/helloworld/HomeworkSubmission/build/CMakeFiles/rebuild_cache.dir
+/home/chenshan/helloworld/HomeworkSubmission/build/CMakeFiles/edit_cache.dir
+/home/chenshan/helloworld/HomeworkSubmission/build/CMakeFiles/app.dir
+/home/chenshan/helloworld/HomeworkSubmission/build/CMakeFiles/sharedlib.dir
+/home/chenshan/helloworld/HomeworkSubmission/build/CMakeFiles/staticlib.dir
