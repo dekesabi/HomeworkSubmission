@@ -1,0 +1,9 @@
+/home/wqs/HW_homework/HW_homework2/CMakeFiles/rebuild_cache.dir
+/home/wqs/HW_homework/HW_homework2/CMakeFiles/edit_cache.dir
+/home/wqs/HW_homework/HW_homework2/CMakeFiles/main.dir
+/home/wqs/HW_homework/HW_homework2/src/static_lib_src/CMakeFiles/rebuild_cache.dir
+/home/wqs/HW_homework/HW_homework2/src/static_lib_src/CMakeFiles/edit_cache.dir
+/home/wqs/HW_homework/HW_homework2/src/static_lib_src/CMakeFiles/static_lib.dir
+/home/wqs/HW_homework/HW_homework2/src/shared_lib_src/CMakeFiles/rebuild_cache.dir
+/home/wqs/HW_homework/HW_homework2/src/shared_lib_src/CMakeFiles/edit_cache.dir
+/home/wqs/HW_homework/HW_homework2/src/shared_lib_src/CMakeFiles/shared_lib.dir
