@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wqs/HW_homework/HW_homework2/src/static_lib_src/static_lib.cpp
+static_lib.hpp
+/home/wqs/HW_homework/HW_homework2/src/static_lib_src/static_lib.hpp
+iostream
+-
+
+includes/static_lib.hpp
+
