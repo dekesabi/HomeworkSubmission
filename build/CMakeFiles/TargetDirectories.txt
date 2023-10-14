@@ -1,0 +1,5 @@
+/home/akirkka/projects/hw_2/build/CMakeFiles/rebuild_cache.dir
+/home/akirkka/projects/hw_2/build/CMakeFiles/edit_cache.dir
+/home/akirkka/projects/hw_2/build/CMakeFiles/main.dir
+/home/akirkka/projects/hw_2/build/CMakeFiles/shared_lib.dir
+/home/akirkka/projects/hw_2/build/CMakeFiles/static_lib.dir
