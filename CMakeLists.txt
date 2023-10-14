@@ -1,0 +1,21 @@
+cmake_minimum_required(VERSION 3.0)
+project(HwSm)
+set(CMAKE_CXX_STANDARD 11)
+find_package(OpenCV REQUIRED)
+find_package(Eigen3 REQUIRED)
+include_directories(${CMAKE_SOURCE_DIR}/includes)
+file(GLOB SRCC "${CMAKE_CURRENT_SOURCE_DIR}/src/static_lib_src/*.cpp")
+file(GLOB SRCCS "${CMAKE_CURRENT_SOURCE_DIR}/src/shared_lib_src/*.cpp")
+set(LIBRARY_OUTPUT_PATH ${PROJECT_SOURCE_DIR}/lib)
+add_library(HwSm STATIC ${SRCC})
+add_library(HwSmSh SHARED ${SRCCS})
+
+set(EXECUTABLE_OUTPUT_PATH ${PROJECT_SOURCE_DIR}/bin)
+target_include_directories(HwSm PUBLIC ${CMAKE_SOURCE_DIR}/includes)
+target_include_directories(HwSmSh PUBLIC ${CMAKE_SOURCE_DIR}/includes)
+target_include_directories(HwSmSh PUBLIC ${OpenCV_INCLUDE_DIRS})
+target_include_directories(HwSmSh PUBLIC ${EIGEN3_INCLUDE_DIRS})
+
+add_executable(result main.cpp)
+
+target_link_libraries(result HwSm HwSmSh ${OpenCV_LIBS} ${EIGEN3_LIBS})

@@ -1,0 +1,5 @@
+/home/nemo/Wen_HomeworkSubmission/build/CMakeFiles/edit_cache.dir
+/home/nemo/Wen_HomeworkSubmission/build/CMakeFiles/rebuild_cache.dir
+/home/nemo/Wen_HomeworkSubmission/build/CMakeFiles/HwSmSh.dir
+/home/nemo/Wen_HomeworkSubmission/build/CMakeFiles/result.dir
+/home/nemo/Wen_HomeworkSubmission/build/CMakeFiles/HwSm.dir
