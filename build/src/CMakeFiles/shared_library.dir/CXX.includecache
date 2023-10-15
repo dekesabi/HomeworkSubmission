@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../includes/shared_lib.hpp
+
+/home/wang-1030/Desktop/HomeworkSubmission/src/shared_lib.cpp
+shared_lib.hpp
+/home/wang-1030/Desktop/HomeworkSubmission/src/shared_lib.hpp
+iostream
+-
+

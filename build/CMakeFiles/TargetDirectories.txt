@@ -1,0 +1,7 @@
+/home/wang-1030/Desktop/HomeworkSubmission/build/CMakeFiles/rebuild_cache.dir
+/home/wang-1030/Desktop/HomeworkSubmission/build/CMakeFiles/edit_cache.dir
+/home/wang-1030/Desktop/HomeworkSubmission/build/CMakeFiles/test.dir
+/home/wang-1030/Desktop/HomeworkSubmission/build/src/CMakeFiles/rebuild_cache.dir
+/home/wang-1030/Desktop/HomeworkSubmission/build/src/CMakeFiles/edit_cache.dir
+/home/wang-1030/Desktop/HomeworkSubmission/build/src/CMakeFiles/shared_library.dir
+/home/wang-1030/Desktop/HomeworkSubmission/build/src/CMakeFiles/static_library.dir
