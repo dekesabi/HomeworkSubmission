@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../includes/shared_lib.hpp
+
+/home/test/桌面/VsionHomework/VisonHomework/src/shared_lib_src/shared_lib.cpp
+shared_lib.hpp
+/home/test/桌面/VsionHomework/VisonHomework/src/shared_lib_src/shared_lib.hpp
+iostream
+-
+
