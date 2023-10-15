@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/Desktop/rm-01/homework-02/clone/HomeworkSubmission/lib/libstatic_lib.a  CMakeFiles/static_lib.dir/src/static_lib_src/static_lib.cpp.o
+/usr/bin/ranlib /home/Desktop/rm-01/homework-02/clone/HomeworkSubmission/lib/libstatic_lib.a
