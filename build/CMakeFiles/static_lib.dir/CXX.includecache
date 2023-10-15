@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../includes/static_lib.hpp
+
+/home/qixcrash/homework/HomeworkSubmission/src/static_lib_src/static_lib.cpp
+static_lib.hpp
+/home/qixcrash/homework/HomeworkSubmission/src/static_lib_src/static_lib.hpp
+iostream
+-
+
