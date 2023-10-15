@@ -1,0 +1,9 @@
+/home/test/桌面/VsionHomework/VisonHomework/build/CMakeFiles/rebuild_cache.dir
+/home/test/桌面/VsionHomework/VisonHomework/build/CMakeFiles/edit_cache.dir
+/home/test/桌面/VsionHomework/VisonHomework/build/CMakeFiles/test1.dir
+/home/test/桌面/VsionHomework/VisonHomework/build/src/shared_lib_src/CMakeFiles/rebuild_cache.dir
+/home/test/桌面/VsionHomework/VisonHomework/build/src/shared_lib_src/CMakeFiles/edit_cache.dir
+/home/test/桌面/VsionHomework/VisonHomework/build/src/shared_lib_src/CMakeFiles/shared_lib.dir
+/home/test/桌面/VsionHomework/VisonHomework/build/src/static_lib_src/CMakeFiles/rebuild_cache.dir
+/home/test/桌面/VsionHomework/VisonHomework/build/src/static_lib_src/CMakeFiles/edit_cache.dir
+/home/test/桌面/VsionHomework/VisonHomework/build/src/static_lib_src/CMakeFiles/static_lib.dir
