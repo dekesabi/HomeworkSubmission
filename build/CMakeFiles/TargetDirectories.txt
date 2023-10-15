@@ -1,0 +1,5 @@
+/home/qixcrash/homework/HomeworkSubmission/build/CMakeFiles/rebuild_cache.dir
+/home/qixcrash/homework/HomeworkSubmission/build/CMakeFiles/edit_cache.dir
+/home/qixcrash/homework/HomeworkSubmission/build/CMakeFiles/shared_lib.dir
+/home/qixcrash/homework/HomeworkSubmission/build/CMakeFiles/app.dir
+/home/qixcrash/homework/HomeworkSubmission/build/CMakeFiles/static_lib.dir
